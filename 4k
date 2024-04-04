@@ -1,0 +1,638 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globonews.br" tvg-name=" " tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/11/novo-logo-identidade-visual-pacote-grafico-globonews-2017.jpg",   GloboNews HD 264
+http://pfsv.io:80/77882888/50763499/30196.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name=" " tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/11/novo-logo-identidade-visual-pacote-grafico-globonews-2017.jpg",  GloboNews FHD
+http://pfsv.io:80/77882888/50763499/512.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name=" " tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/11/novo-logo-identidade-visual-pacote-grafico-globonews-2017.jpg",  GloboNews 4K
+http://pfsv.io:80/77882888/50763499/50864.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://imagem.natelinha.uol.com.br/original/capa-logo-cnn-brasil-muda-de-diretor-em-brasilia-reproducao_5274.jpeg",(Web) CNN BRASIL-HD 
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://imagem.natelinha.uol.com.br/original/capa-logo-cnn-brasil-muda-de-diretor-em-brasilia-reproducao_5274.jpeg", CNN BRASIL-4K
+http://pfsv.io:80/77882888/50763499/50865.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS UHD" tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" , Record News H264
+http://pfsv.io:80/77882888/50763499/30197.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS UHD" tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016.jpg" , Record News FHD
+http://pfsv.io:80/77882888/50763499/511.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VN1Z2T0.png", Band News FHD
+http://pfsv.io:80/77882888/50763499/510.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS HD" tvg-logo="https://s03.video.glbimg.com/x720/8425698.jpg",(MG) GloboNews FHD 
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/76241
+#EXTINF:-1 tvg-id="globonews.br" tvg-name=" " tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/11/novo-logo-identidade-visual-pacote-grafico-globonews-2017.jpg",  GloboNews  SD
+http://pfsv.io:80/77882888/50763499/522.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://midias.em.com.br/_midias/png/2024/01/05/1200x720/1_bbb24-33945459.png?20240105115415?20240105115415",  BBBFHD CAM- 1 HDR FHD
+http://pfsv.io:80/77882888/50763499/186260.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD 24
+http://pfsv.io:80/77882888/50763499/186194.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- 1 
+http://pfsv.io:80/77882888/50763499/186218.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- 1 ALTERNATIVA
+http://pfsv.io:80/77882888/50763499/186232.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- 2  HD
+http://pfsv.io:80/77882888/50763499/186257.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://midias.em.com.br/_midias/png/2024/01/05/1200x720/1_bbb24-33945459.png?20240105115415?20240105115415",  BBBFHD CAM- 2  HDR FHD
+http://pfsv.io:80/77882888/50763499/186261.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- 2 SD
+http://pfsv.io:80/77882888/50763499/186217.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- 2 FHD 
+http://pfsv.io:80/77882888/50763499/186231.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- 2 ALTERNATIVA
+http://pfsv.io:80/77882888/50763499/186257.ts
+#EXTINF:-1 tvg-logo="https://www.opovo.com.br/_midias/jpg/2023/04/22/818x460/1_inscricoes_inscricao_cadastro_candidatura_bbb_2024_24_big_brother_brasil_programa_reality_show_rede_globo-21778014.jpg",  BBBFHD FADAS  CAM- 3
+http://pfsv.io:80/77882888/50763499/186230.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/0/5/1/1/9/8/4_2b6254d679aa1fc/4891150_65dd00e3b66995b.jpg?w=700",(MG) BBB 2024 CAM 01
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/599223.ts
+#EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/0/5/1/1/9/8/4_2b6254d679aa1fc/4891150_65dd00e3b66995b.jpg?w=700",(OTT) BBB 2024 CAM 01
+http://fchmqta.mmastertv.xyz:80/live/2153425528/4491536243/82153.ts
+#EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/0/5/1/1/9/8/4_2b6254d679aa1fc/4891150_65dd00e3b66995b.jpg?w=700",(MG) BBB 2024 CAM 02
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/599224.ts
+#EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/0/5/1/1/9/8/4_2b6254d679aa1fc/4891150_65dd00e3b66995b.jpg?w=700",(OTT) BBB 2024 CAM 02
+http://fchmqta.mmastertv.xyz:80/live/2153425528/4491536243/82170.ts
+#EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/0/5/1/1/9/8/4_2b6254d679aa1fc/4891150_65dd00e3b66995b.jpg?w=700",(MG) BBB 2024 MOSAICO
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/599225.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://midias.em.com.br/_midias/png/2024/01/05/1200x720/1_bbb24-33945459.png?20240105115415?20240105115415",  BBB-FHD LIDER
+http://pfsv.io:80/77882888/50763499/186224.ts
+#EXTINF:-1 tvg-logo="https://midias.em.com.br/_midias/png/2024/01/05/1200x720/1_bbb24-33945459.png?20240105115415?20240105115415",  BBB-HD  LIDER
+http://pfsv.io:80/77882888/50763499/186250.ts
+#EXTINF:-1 tvg-logo="https://midias.em.com.br/_midias/png/2024/01/05/1200x720/1_bbb24-33945459.png?20240105115415?20240105115415",  BBB-SD LIDER
+http://pfsv.io:80/77882888/50763499/186237.ts
+#EXTINF:-1 tvg-logo="https://midias.em.com.br/_midias/png/2024/01/05/1200x720/1_bbb24-33945459.png?20240105115415?20240105115415",  BBB-FHD BANHEIRO
+http://pfsv.io:80/77882888/50763499/186211.ts
+#EXTINF:-1 tvg-logo="https://midias.em.com.br/_midias/png/2024/01/05/1200x720/1_bbb24-33945459.png?20240105115415?20240105115415",  BBB-FHD-02 BANHEIRO
+http://pfsv.io:80/77882888/50763499/186226.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- 4
+http://pfsv.io:80/77882888/50763499/186229.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- 5 COZINHA
+http://pfsv.io:80/77882888/50763499/186228.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD SALA FHD
+http://pfsv.io:80/77882888/50763499/186223.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD SALA HD
+http://pfsv.io:80/77882888/50763499/186249.ts
+#EXTINF:-1 tvg-logo="https://mixme.com.br/wp-content/uploads/2024/01/CAPA-BBB-24-1-2.jpg",  BBBFHD CAM- QUARTO FADAS
+http://pfsv.io:80/77882888/50763499/186222.ts
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://p6.vc/US" , [24H] She Ra A Princesa Do Poder
+http://pfsv.io:80/77882888/50763499/165124.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/masters-of-the-universe-he-man-battle-cat-logo-51231633DE-seeklogo.com.png" , [24H] He-Man
+http://pfsv.io:80/77882888/50763499/164857.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/XY" ,  [24H] Toma La Da Ca
+http://pfsv.io:80/77882888/50763499/165229.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Cavalo_de_fogo.jpg" , [24H] CAVALO DE FOGO
+http://pfsv.io:80/77882888/50763499/164742.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/SZ" , [24H] Quilos Mortais
+http://pfsv.io:80/77882888/50763499/165082.ts
+#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_br/tv/default/caverna-do-dragao_fn8u.jpg" ,[24H] Caverna do Dragao HD
+http://pfsv.io:80/77882888/50763499/164743.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/63/28/e6/6328e6382e59fabb7bf0adc45830c68c.jpg" ,[24H]  Thundercats 24H
+http://pfsv.io:80/77882888/50763499/165213.ts
+#EXTINF:-1 tvg-logo="https://iconografiadahistoria.com.br/wp-content/uploads/2020/09/foto1.jpg" ,[24H] ALF
+http://pfsv.io:80/77882888/50763499/164657.ts
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/images/GYVr-Fw8B-IOswwEAAAAC/tileburnedin?size=1280x720&partner=hbomaxcom&v=e8f5be9b72f0a71651fb30aa551a18a8&host=art-gallery.api.hbo.com&language=pt-br&w=1280" ,[24H] TODO MUNDO ODEIA O CRIS
+http://pfsv.io:80/77882888/50763499/43921.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.devotudoaocinema.com.br/content/uploads/2020/02/91ENPWlX7CL._RI_-1068x801.jpg" , Jeannie é um Gênio
+https://i.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Modo_Viagem_2021_pre-lanzamiento.png/revision/latest?cb=20220117123751&path-prefix=es" , Modo Viagem FHD
+http://pfsv.io:80/77882888/50763499/103.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Modo_Viagem_2021_pre-lanzamiento.png/revision/latest?cb=20220117123751&path-prefix=es" , Modo Viagem FHD H264
+http://pfsv.io:80/77882888/50763499/30194.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" , MULTSHW HDR
+http://pfsv.io:80/77882888/50763499/130224.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" , MULTSHW FHD 
+http://pfsv.io:80/77882888/50763499/3.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CurtaRelevante.png" , CURTA! FHD 264
+http://pfsv.io:80/77882888/50763499/30192.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CurtaRelevante.png" , CURTA! HD
+http://pfsv.io:80/77882888/50763499/107.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CurtaRelevante.png" ,(BR) BR - CURTA! HDR
+http://pfsv.io:80/77882888/50763499/130255.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3wyj1T.png" ,TLC HDR  
+http://pfsv.io:80/77882888/50763499/130199.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HwQDcv3.png" ,  E! HDR
+http://pfsv.io:80/77882888/50763499/130257.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.pinimg.com/564x/22/32/ab/2232ab75b5384a38fba0ef169f20f346.jpg" ,  A FEITICEIRA
+https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi" , Love Nature 4K  
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg" ,( sansung )  Love Nature TIME FHD
+https://i.mjh.nz/SamsungTVPlus/FRBB4900002D4.m3u8
+#EXTINF:-1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" ,( Pluto)  tv ANIMAIS 
+https://i.mjh.nz/PlutoTV/6474aa984cfc2c0008883a92-alt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" ,Animal Planet [4K]
+http://pfsv.io:80/77882888/50763499/588.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png" , Discovery Channel [4K]
+http://pfsv.io:80/77882888/50763499/585.ts
+#EXTINF:-1 tvg-id="zapviva.pt" tvg-name="PT| ZAP VIVA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44dhX8hnpvMil4Bi3M-SFgGcN8HyIwt_TRvl_R5F0bKKuOVpKm6CcKLWG0yylBvXEsqA&usqp=CAU",(MG)  ZAP VIVA FHD
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/334958
+#EXTINF:-1 tvg-id="zapviva.pt" tvg-name="PT| ZAP VIVA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44dhX8hnpvMil4Bi3M-SFgGcN8HyIwt_TRvl_R5F0bKKuOVpKm6CcKLWG0yylBvXEsqA&usqp=CAU",( M-TT)  ZAP VIVA FHD
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/165771
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.devotudoaocinema.com.br/content/uploads/2020/02/91ENPWlX7CL._RI_-1068x801.jpg" , Jeannie é um Gênio
+https://i.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.pinimg.com/564x/22/32/ab/2232ab75b5384a38fba0ef169f20f346.jpg" ,  A FEITICEIRA
+https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_SBT_1996.png/revision/latest/scale-to-width-down/200?cb=20190719181408",( web)  SBT-DF
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" , Globo MG HD
+http://pfsv.io:80/77882888/50763499/65248.ts
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" , Globo RJ FHD
+http://pfsv.io:80/77882888/50763499/352.ts
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" , Globo RJ HD
+http://pfsv.io:80/77882888/50763499/392.ts
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" ,  Globo  ribeirao  FHD h264
+http://pfsv.io:80/77882888/50763499/122761.ts
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" ,  Globo  SP FHD h264
+http://pfsv.io:80/77882888/50763499/30205.ts
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" , Globo 4K
+http://pfsv.io:80/77882888/50763499/582.ts
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" ,  Globo  BRASILIA HD
+http://pfsv.io:80/77882888/50763499/360.ts
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" ,  Globo  SP FHD
+http://pfsv.io:80/77882888/50763499/30205.ts
+#EXTINF:-1 tvg-logo="https://pbagora.s3.amazonaws.com/2022/02/09182733/GLOBO.jpeg" ,  Globo  BRASILIA
+http://pfsv.io:80/77882888/50763499/68951.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/SescTV_%282013%29.png" , SESC TV 
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/RedeTV-Logotipo.svg" , (BR) RedeTV FHD
+http://pfsv.io:80/77882888/50763499/48.ts
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="https://upload.wikimedia.org/wikipedia/commons/7/73/RedeTV-Logotipo.svg" , RedeTV FHD
+http://pfsv.io:80/77882888/50763499/30180.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/TVGAZETAHD.png",  TV GAZETA  FHD
+http://pfsv.io:80/77882888/50763499/49.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/TVGAZETAHD.png",  TV GAZETA  FHD 264
+http://pfsv.io:80/77882888/50763499/30189.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_SBT_1996.png/revision/latest/scale-to-width-down/200?cb=20190719181408", SBT- FHD
+http://pfsv.io:80/77882888/50763499/30179.ts
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.vIQvsHfWG-FVpdiqB-NaOQHaHa?pid=ImgDet" ,  RECORD 4K
+http://pfsv.io:80/77882888/50763499/583.ts
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.vIQvsHfWG-FVpdiqB-NaOQHaHa?pid=ImgDet" ,  RECORD FHD  DF
+http://pfsv.io:80/77882888/50763499/60.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" ,(WEB) SIC Ao Vivo
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" ,(WEB)  Rede Brasil de Televisão - RBTV
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w110930005.m3u8
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/HP5aXp6.png" ,(WEB) REDE TV ES 
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://i.imgur.com/bepBgde.png" ,(BR- )  MTVs 00 FHD
+http://pfsv.io:80/77882888/50763499/108973.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://i.imgur.com/bepBgde.png" ,(BR-04)  MTVs 00- FHD HDR
+http://pfsv.io:80/77882888/50763499/130223.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://i.imgur.com/bepBgde.png" ,(MG) MTVs 00 SW 
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/308705
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://i.imgur.com/bepBgde.png" ,(M-OTT) AR| OSN MTV 00s HEVC
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/400652541
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://i.imgur.com/bepBgde.png" ,(OTT) MTVs 00  ES
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/33534.ts
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/6245d05006d79800081fff9c/colorLogoPNG.png",(SAN)) MTV MOVI HITS DE
+https://r.mjh.nz/PlutoTV/6245d05006d79800081fff9c-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/6245d05006d79800081fff9c/colorLogoPNG.png",(MG)) MTV MOVI HITS DE
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/363413.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/61923ac16d03190008138a67/colorLogoPNG.png",(SAN)) MTV MUSIC LOVE DE
+https://r.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/622f46a3769a6d0007429de0/colorLogoPNG.png",(SAN)) MTV PARTY DE
+https://r.mjh.nz/PlutoTV/622f46a3769a6d0007429de0-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/622f46a3769a6d0007429de0/colorLogoPNG.png",(MG)) MTV PARTY DE
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/363415.ts
+
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/62430270d6394a0007ef24a6/colorLogoPNG.png",(Pluto) MTV Love GB
+https://r.mjh.nz/PlutoTV/62430270d6394a0007ef24a6-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png",(Pluto) VH1+ Back to 90's  
+https://r.mjh.nz/PlutoTV/6552085aab05240008b05f6c-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png",(Pluto) VH1+ Music Legends
+https://r.mjh.nz/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/colorLogoPNG.png",(Pluto) MTV: Best of
+https://r.mjh.nz/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG.png",(Pluto) Best of MTV
+https://r.mjh.nz/PlutoTV/632aff5e44111b00076ad9b1-alt.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.chillglobal.com/images/channels/slam!-tv-1432651811.png",(MG)) SLAM TV NL
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/169814.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.chillglobal.com/images/channels/slam!-tv-1432651811.png",(MG-2)) SLAM TV NL
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/1059.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/colorLogoPNG.png",(SAN)) MTV Music DE
+https://r.mjh.nz/PlutoTV/6245d15062cd1f00070a2338-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/6245cdb15d931000073ee4ff/colorLogoPNG.png",(SAN)) MTV RockZone  DE
+https://r.mjh.nz/PlutoTV/6245cdb15d931000073ee4ff-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/63da41dba9957100087293fc/colorLogoPNG.png",(Pluto) MTV Queens of Pop
+https://r.mjh.nz/PlutoTV/63da41dba9957100087293fc-alt.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png",(PLUTO) VH1 Classics
+https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png",(MG) VH1 Classics
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/363706.ts
+#EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400004TU_20221109T010911SQUARE.png_20221109010912.png",(SAN) Cmusic FHD
+https://i.mjh.nz/SamsungTVPlus/ITBC400004TU.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/645a61a3d3fdde00081e2206/colorLogoPNG.png",(Pluto) MTV PRIDE FHD
+https://r.mjh.nz/PlutoTV/645a61a3d3fdde00081e2206-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/6492dd83115d060008b511bc/colorLogoPNG.png",(Pluto) MTV Summer Hits FHD
+https://r.mjh.nz/PlutoTV/6492dd83115d060008b511bc-alt.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/LiteTVlogo.png",(MG-02)  NL| STINGRAY LITE TV 
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/521127.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/LiteTVlogo.png",(MG)  NL| STINGRAY LITE TV 
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/325037
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/LiteTVlogo.png",(M-OTT)  NL| STINGRAY LITE TV 
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/157105
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Stingray_Retro.png",(MG) CA|  STINGRAY RETRO
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/513539.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Stingray_Retro.png",(M-OTT) PT |  STINGRAY RETRO
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/32310.ts
+#EXTINF:-1 tvg-id="mtvlivehd.co" tvg-name="CLARO| MTV LIVE HD" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-muzyka-2-international.jpg?itok=QBzJqaoB",(TORRENT) Музыка 2 international
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="192tv.nl" tvg-name="NL| 192TV HD" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/192TV.png",(MG) - NL  192 TV - HD
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/1121
+#EXTINF:-1 tvg-id="192tv.nl" tvg-name="NL| 192TV HD" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/192TV.png",(M-OTT) - NL  192 TV - HDD
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/166472
+#EXTINF:-1 tvg-id="192tv.nl" tvg-name="NL| 192TV HD" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/192TV.png",(M-OTT) - NL  192 TV - FHD
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/3223
+#EXTINF:-1 tvg-id="192tv.nl" tvg-name="NL| 192TV HD" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/192TV.png",(M-OTT)- NL  192 TV - SD
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/31120
+
+
+
+
+
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/920693411161759744/eFbOlGWj_400x400.jpg" ,(MG) VH1 DE
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/33501.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/920693411161759744/eFbOlGWj_400x400.jpg" ,(MG) VH1  SW
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/323651.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/920693411161759744/eFbOlGWj_400x400.jpg" ,(OTT) VH1 -EXUOU
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/33819.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/920693411161759744/eFbOlGWj_400x400.jpg" ,(OTT) VH1 -SW
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/400253054.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/920693411161759744/eFbOlGWj_400x400.jpg" ,(OTT)  VH1 00 DE
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/156540.ts
+
+
+
+
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://lo1.in/nl/nickm.png" ,(MG) NICK MUSIC BE
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/326047.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://lo1.in/nl/nickm.png" ,(MG) NICK MUSIC NL
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/1118.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://lo1.in/nl/nickm.png" ,(OTT) NICK MUSIC NL
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/16837.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://lo1.in/us/nk.png" ,(MG) NICK MUSIC US
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/71393.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://lo1.in/us/nk.png" ,(OTT) NICK MUSIC US
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/181060.ts
+
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/220px-MTV_90s_2022.svg.png", (MG)-MTV 90s -PL
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/765674.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/220px-MTV_90s_2022.svg.png", (MG)-MTV 90s- NL
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/325032
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/220px-MTV_90s_2022.svg.png", (M-OTT)-MTV 90s RO
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/171465
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/220px-MTV_90s_2022.svg.png", (M-OTT) EXYU| MTV 90`S HD
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/33815
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1024px-MTV_Classic_2021.svg.png", (MG)-MTV CLASSIC US
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/71395
+#EXTINF:-1 tvg-id="magic.ro" tvg-name="RO| MAGIC TV HD" tvg-logo="https://www.dvbnews.ro/wp-content/uploads/2016/09/logo-magic-tv-777x437.png",( WEB) Magic TV  RO HD
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
+#EXTINF:-1 tvg-id="magic.ro" tvg-name="RO| MAGIC TV HD" tvg-logo="https://www.dvbnews.ro/wp-content/uploads/2016/09/logo-magic-tv-777x437.png",(M-OTT ) Magic TV  RO HD
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/171454
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MagicTV_logo.svg/1200px-MagicTV_logo.svg.png", (WEB) BG - MAGICTV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MagicTV_logo.svg/1200px-MagicTV_logo.svg.png", (M-TT) BG - MAGICTV
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/16727
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png?v=4",(WEB ) POWER  Love TV FHD
+http://livetv.powerapp.com.tr/plove/love.smil/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="mtvlivehd.co" tvg-name="CLARO| MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mtv_live_2021_wide.png",  MTV LIVE HDR
+http://pfsv.io:80/77882888/50763499/130222.ts
+#EXTINF:-1 tvg-id="mtvlivehd.co" tvg-name="CLARO| MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mtv_live_2021_wide.png",  MTV LIVE FHD
+http://pfsv.io:80/77882888/50763499/2.ts
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="PT| MCM POP HD" tvg-logo="https://uruacufm.com.br/fm/wp-content/uploads/2023/03/20200413133200861901u.jpg", (BR)SERTANEJO
+http://pfsv.io:80/77882888/50763499/165473.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://mjcmusic.com.br/uploads/fotos/noticia_1_4.png", (BR) MPB Channel Ao Vivo
+http://pfsv.io:80/77882888/50763499/165472.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/640x427/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24974621/STK088_VRG_Illo_N_Barclay_1_spotify.jpeg", (BR) Spotify
+http://pfsv.io:80/77882888/50763499/165474.ts
+
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png",(SA) XITE LOVE FHD
+https://i.mjh.nz/SamsungTVPlus/CABD12000207Z.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240116T231127SQUARE.png_20240116231128.png",(San) XITE Celebrates
+https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png",(San) XITE 90s Throwback 
+https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20231031T225112SQUARE.png_20231031225113.png",(San) XITE Country Today
+https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png",(San) XITE Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wYBJZXPMxh.png", (WEB-) RTL 102.5 Best
+https://streamcdng20-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/sessid_b173bbcfe1cad287bb8963c9787d897c/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/800px-MTV_Hits_2021.svg.png" ,(MG) MTV HITS -MT
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/326300.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/800px-MTV_Hits_2021.svg.png" ,(MG) MTV HITS -RO
+http://atg100.xyz/live/12hm23031606/1ADDCA51F5C3207/68890.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkNRoll_logo.png",(OTT) PINK & ROLL
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/174046
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/impact-tv-dance-live-vipotv-rom.png", (WEB) IMPACT DANCE TV FHD
+https://online.tvimpact.live/hls/dancetv.m3u8
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="(WEB) Bridge TV CLASSIC" tvg-logo="https://i.ytimg.com/vi/7CH5_AWi0n4/mqdefault.jpg",(WEB) Bridge TV CLASSIC 
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(WEB) Bridge TV CLASSIC" tvg-logo="https://i.ytimg.com/vi/7CH5_AWi0n4/mqdefault.jpg",(WEB-02) Bridge TV CLASSIC 
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(WEB) Bridge TV CLASSIC" tvg-logo="https://i.ytimg.com/vi/7CH5_AWi0n4/mqdefault.jpg",(WEB-03) Bridge TV CLASSIC 
+http://188.113.190.15/302/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://bridgetv.ru/s/uploads/show/rock-1678531673.png",(WEB) BRIDGE TV ROCK FHD
+https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://bridgetv.ru/s/uploads/show/rock-1678531673.png",(WEB) BRIDGE TV ROCK SD
+http://176.113.48.221:8986/147
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://logonoid.com/images/bridge-tv-logo.png",(WEB) Bridge TV
+http://otv.wotom.net:4433/udp/238.1.1.117:1234
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://logonoid.com/images/bridge-tv-logo.png",(OTT) Bridge TV
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/159755.ts
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://logonoid.com/images/bridge-tv-logo.png",(WEB-02) Bridge TV
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="USA: MC MUSIC 90'S" tvg-logo="https://www.cableman.ru/sites/default/files/bridge_tv_delux.png",-(WEB) BRIDGE DELUX FHD
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+#EXTINF:-1 tvg-id="USA: MC MUSIC 90'S" tvg-logo="https://www.cableman.ru/sites/default/files/bridge_tv_delux.png",-(OTT) BRIDGE DELUX FHD
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/159756.ts
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="FR| RFM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/RFM_TV_2002-2005.png", (MG) RFM TV FHD  MT
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/326289
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="FR| RFM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/RFM_TV_2002-2005.png", (MG) RFM TV  
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/62655
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="FR| RFM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/RFM_TV_2002-2005.png", (M-OTT) RFM TV  FHD
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/1133
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="FR| RFM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/RFM_TV_2002-2005.png", (M-OTT) RFM TV  FHD H264
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/1150
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="FR| RFM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/RFM_TV_2002-2005.png", (M-OTT) RFM TV  HD 
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/1174
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png",(WEB) Deluxe Flashback FHD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="PT| MCM POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/MCM_Pop_Logo.svg/1280px-MCM_Pop_Logo.svg.png", (MG) MCM POP -PT
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/68367
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="PT| MCM POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/MCM_Pop_Logo.svg/1280px-MCM_Pop_Logo.svg.png", (MG-02 ) MCM POP -PT
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/68291
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="PT| MCM POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/MCM_Pop_Logo.svg/1280px-MCM_Pop_Logo.svg.png", (OTT) MCM POP -PT
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/165709
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="PT| MCM POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/MCM_Pop_Logo.svg/1280px-MCM_Pop_Logo.svg.png", (OTT) MCM POP -PT H264
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/165826
+
+ 
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/0f/Kronehit-Logo.svg/501px-Kronehit-Logo.svg.png", KRONEHIT TV - 720P
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/0f/Kronehit-Logo.svg/501px-Kronehit-Logo.svg.png", -KRONEHIT FULL FHD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="http://logo.protv.cc/picons/logos/now90s.png",(WEB) UK-NOW 90S HD
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="NOW80s.uk" tvg-logo="http://logo.protv.cc/picons/logos/now80s.png",(WEB) UK-NOW 80S HD
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="mtvlivehd.co" tvg-name="CLARO| MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mtv_live_2021_wide.png",(MG) MTV LIVE HD-MT
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/326299
+#EXTINF:-1 tvg-id="mtv.hu" tvg-name="HU| MTV CLUB SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/1024px-Club_MTV_2021_logo.svg.png",(MG) MTV CLUB -MT 
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/326336
+#EXTINF:-1 tvg-id="mtv.hu" tvg-name="HU| MTV CLUB SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/1024px-Club_MTV_2021_logo.svg.png",(OTT) MTV CLUB -BG 
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/473420.ts
+#EXTINF:-1 tvg-id="mtv.hu" tvg-name="HU| MTV CLUB SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/1024px-Club_MTV_2021_logo.svg.png",(OTT) MTV CLUB - RO
+http://fchmqta.mmastertv.xyz/live/2153425528/4491536243/171462.ts
+#EXTINF:-1 tvg-id="mtv.hu" tvg-name="HU| MTV CLUB SD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/e3a9b355280607.597e6366d9048.png",(MG) MTV CLASSIC
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/71395
+#EXTINF:-1 tvg-id="mtv.hu" tvg-name="HU| MTV CLUB SD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/e3a9b355280607.597e6366d9048.png",(M-OTT) MTV CLASSIC UK
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/191716
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20231024T231905SQUARE.png_20231024231906.png",(San)  XITE Country's Finest
+https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png",(Pluto) CMT Equal Play 
+https://r.mjh.nz/PlutoTV/5f68f53eb1e5800007390bf8-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20230412T042246SQUARE.png_20230412042247.png",(SAN)) Vevo '90s & '00s
+https://i.mjh.nz/SamsungTVPlus/FRBD1900013CB.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png",(SANS)) VEVO 90.S
+https://i.mjh.nz/SamsungTVPlus/CABC52000127S.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png",(SAN))-VEVO 2010
+https://i.mjh.nz/SamsungTVPlus/CABD1200009SD.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://p2ptv.ttv.run/uploads/JhVBeQChETt0HyVWOwxereoUjEfRj3.png", - Ocko Star (CZ) **************************
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://muzikonair.com/wp-content/uploads/power-tv.jpg",(WEB ) POWER TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.stream_1080p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.ytimg.com/vi/uNDwBiWVg_Y/sddefault_live.jpg",(WEB) DE GO TV HD ***********************************************************
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png",(WEB) Deluxe Dance by Kontor HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_ROCK_LOGO_RGB-1.png",(WEB) Deluxe Rock HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg" , Arquivo Morto TP-01
+http://pfsv.io:80/77882888/50763499/165327.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg" , Arquivo Morto TP-02
+http://pfsv.io:80/77882888/50763499/165328.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg" , Arquivo Morto TP-03
+http://pfsv.io:80/77882888/50763499/165329.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg" , Arquivo Morto TP-04
+http://pfsv.io:80/77882888/50763499/165330.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg" , Arquivo Morto TP-05
+http://pfsv.io:80/77882888/50763499/165331.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg" , Arquivo Morto TP-06
+http://pfsv.io:80/77882888/50763499/165332.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg" , Arquivo Morto TP-07
+http://pfsv.io:80/77882888/50763499/165333.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://blog.printloja.com.br/wp-content/uploads/2019/07/desenhos-para-colorir-homem-de-ferro-1.jpg" , JENNY
+http://pfsv.io:80/77882888/50763499/164889.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://agenciabrasil.ebc.com.br/internacional/noticia/2017-02/smurfs-se-juntam-onu-na-promocao-dos-objetivos-de-desenvolvimento#" ,smurfs
+http://pfsv.io:80/77882888/50763499/165047.ts
+ʋ#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-9o8wxAvN7pQ/TcMKIOIglqI/AAAAAAAADAg/CrItN43kQ6A/s1600/super-friends.jpg" ,SUPER AMIGOS
+http://pfsv.io:80/77882888/50763499/165184.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="mtvlivehd.co" tvg-name="CLARO| MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mtv_live_2021_wide.png",(MG) MTV LIVE HD-MT
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/326299
+#EXTINF:-1 tvg-id="mtvlivehd.co" tvg-name="CLARO| MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mtv_live_2021_wide.png",(MG) MTV LIVE HD PL
+http://atg100.xyz:80/12hm23031606/1ADDCA51F5C3207/67851
+#EXTINF:-1 tvg-id="mtv.hu" tvg-name="HU| MTV CLUB SD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/e3a9b355280607.597e6366d9048.png",(M-OTT) MTV CLASSIC
+http://fchmqta.mmastertv.xyz:80/2153425528/4491536243/400152409
+
+
+
+
+
